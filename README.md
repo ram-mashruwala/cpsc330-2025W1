@@ -6,20 +6,13 @@ This is the course homepage for CPSC 330: Applied Machine Learning at the Univer
 
 ## The teaching team  
 ### Instructors
-- **Section 101**
-  - Intructor: [Giulia Toti](gtoti@cs.ubc.ca) 
-  - When? Tuesdays and Thursdays 15:30 to 16:50 
-  - Where? TBA
 
-- Section 102
-  - [Varada Kolhatkar](kvarada@cs.ubc.ca) 
-  - When? Tuesdays and Thursdays 11:00 to 12:20
-  - Where? [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/)
+| Section   | Instructor                        | Contact                        | When                        | Where                                                  |
+|-----------|-----------------------------------|--------------------------------|-----------------------------|--------------------------------------------------------|
+| 101       | [Giulia Toti](https://www.gtoti.com/) | gtoti@cs.ubc.ca                | Tue & Thu, 15:30–16:50      | TBA                                                    |
+| 102       | [Varada Kolhatkar](mailto:kvarada@cs.ubc.ca) | kvarada@cs.ubc.ca              | Tue & Thu, 11:00–12:20      | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
+| 103       | [Giulia Toti](mailto:gtoti@cs.ubc.ca)        | gtoti@cs.ubc.ca                | Tue & Thu, 17:00–18:20      | TBA                                                    |
 
-- Section 103
-  - Intructor: [Giulia Toti](gtoti@cs.ubc.ca) 
-  - When? Tuesdays and Thursdays 17:00 to 18:20 
-  - Where? TBA
 
 ### Course co-ordinator
 - TBA (cpsc330-admin@cs.ubc.ca), please reach out to the course co-ordinator for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, this will help us keep track of emails.
