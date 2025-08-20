@@ -4,7 +4,7 @@ pandas
 jupyterlab
 jupyterlab-git
 jupyterlab-spellchecker
-scikit-learn>=1.5.1
+scikit-learn>=1.7.1
 requests
 ipython
 graphviz

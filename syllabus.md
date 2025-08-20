@@ -1,10 +1,10 @@
 # Syllabus 
 
-- [CPSC 330 101 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-101-2024w)
+- [CPSC 330 101 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-101-2025w)
 
-- [CPSC 330 102 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-102-2024w)
+- [CPSC 330 102 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-102-2025w)
 
-- [CPSC 330 103 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-103-2024w)
+- [CPSC 330 103 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-103-2025w)
 
 
 ## Course description
@@ -46,32 +46,14 @@ For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?
 
 **Instructors**: 
 
-- [Firas Moosvi](https://firas.moosvi.com/), OH: Wednesday 1:30 - 2:30, ICCS 253
-- [Giulia Toti](https://www.gtoti.com/), OH: Monday, 2:00 - 3:15 PM, ICCS 231
-- [Varada Kolhatkar](https://kvarada.github.io/), OH: Thursdays, 2:00 - 3:00 PM, ICCS 237
+- [Giulia Toti](https://www.gtoti.com/), OH: TBA
+- [Varada Kolhatkar](https://kvarada.github.io/), OH: TBA
 
 ### Course co-ordinator
-- Devyani McLaren (cpsc330-admin@cs.ubc.ca), please reach out to Devyani for: admin questions, extensions, academic concessions etc. 
+- Ancuta Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Ancuta for: admin questions, extensions, academic concessions etc. 
 
 ### TAs
-- Akash Adhikary	
-- Amirali Goodarzvand Chegini	
-- Aryan Ballani	
-- Atabak Eghbal	
-- Derrick Cheng
-- Frederick Sunstrum	
-- Hongkai Liu	
-- Noah Marusenko	
-- Jialin (Mike) Lu	
-- Kimia Rostin	
-- Mahsa Zarei	
-- Mike Ju
-- Mishaal Kazmi
-- Rubia Reis Guerra	
-- Shadab Shaikh	
-- Sohbat Sandhu
-- Stash Currie	
-- Tianyu (Niki) Duan	
+
 
 ## Registration
 

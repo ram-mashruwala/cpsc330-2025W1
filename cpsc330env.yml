@@ -7,7 +7,7 @@ channels:
     - plotly
     - defaults    
 dependencies:
-    - python==3.12
+    - python==3.13.5
     - ipykernel
     - matplotlib
     - pandas
@@ -15,7 +15,7 @@ dependencies:
     - jupyterlab-git
     - jupyterlab-spellchecker
     - nb_conda_kernels
-    - scikit-learn>=1.5.1    
+    - scikit-learn>=1.7.1    
     - requests
     - ipython
     - graphviz
