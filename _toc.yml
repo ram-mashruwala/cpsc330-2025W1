@@ -26,7 +26,7 @@ parts:
   - file: lectures/notes/04_kNNs-SVM-RBF.ipynb   
 - caption: Section slides
   chapters:
-  - file: lectures/101-Giulia-lectures/README
+  - file: lectures/101&103-Giulia-lectures/README
     sections:
       - file: lectures/101-Giulia-lectures/01_intro.ipynb
       - file: lectures/101-Giulia-lectures/02_terminology-decision-trees.ipynb
