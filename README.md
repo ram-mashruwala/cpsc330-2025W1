@@ -11,11 +11,11 @@ This is the course homepage for CPSC 330: Applied Machine Learning at the Univer
 |-----------|-----------------------------------|--------------------------------|-----------------------------|--------------------------------------------------------|
 | 101       | [Giulia Toti](https://www.gtoti.com/) | [gtoti@cs.ubc.ca](mailto:gtoti@cs.ubc.ca)              | Tue & Thu, 15:30–16:50      | TBA                                                    |
 | 102       | [Varada Kolhatkar](https://kvarada.github.io/) | [kvarada@cs.ubc.ca](mailto:kvarada@cs.ubc.ca)             | Tue & Thu, 11:00–12:20      | [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310/) |
-| 103       | [Giulia Toti](mailto:gtoti@cs.ubc.ca)        | gtoti@cs.ubc.ca                | Tue & Thu, 17:00–18:20      | TBA                                                    |
+| 103       | [Giulia Toti](mailto:gtoti@cs.ubc.ca)        | gtoti@cs.ubc.ca](mailto:gtoti@cs.ubc.ca)                 | Tue & Thu, 17:00–18:20      | TBA                                                    |
 
 
 ### Course co-ordinator
-- TBA (cpsc330-admin@cs.ubc.ca), please reach out to the course co-ordinator for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, this will help us keep track of emails.
+- Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to the course co-ordinator for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, this will help us keep track of emails.
 
 ### TAs
 
@@ -32,7 +32,7 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 * [Course Jupyter book](https://ubc-cs.github.io/cpsc330-2025W1)
 * [Canvas](https://canvas.ubc.ca/courses/)
 * [Piazza]()
-* [iClicker Cloud]()
+* [iClicker Cloud Section 001](), [iClicker Cloud Section 002](), [iClicker Cloud Section 003]()   
 * [Gradescope](https://www.gradescope.ca/courses/18608)
 * [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
 * [Syllabus / administrative info](docs/syllabus.md)

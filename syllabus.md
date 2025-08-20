@@ -50,7 +50,7 @@ For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?
 - [Varada Kolhatkar](https://kvarada.github.io/), OH: TBA
 
 ### Course co-ordinator
-- Ancuta Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Ancuta for: admin questions, extensions, academic concessions etc. 
+- Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. 
 
 ### TAs
 
@@ -74,8 +74,8 @@ The grading scheme for the course is as follows:
 | Component              | Weight | Location                                              |
 |------------------------|--------|-------------------------------------------------------|
 | Syllabus quiz          | 1%     | [PrairieLearn](https://us.prairielearn.com/pl/course_instance/163899/assessment/2451488)        |
-| iClicker participation | 5%     | [iClicker Cloud](https://join.iclicker.com/VYFJ)                                    |
-| Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/18608) |
+| iClicker participation | 5%     | [iClicker Cloud Section 001](); [iClicker Cloud Section 002](); [iClicker Cloud Section 003]()  |
+| Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/29785) |
 | Midterm 1              | 21%    | PrairieLearn |
 | Midterm 2              | 21%    | PrairieLearn |
 | Final                  | 30%    | PrairieLearn |
