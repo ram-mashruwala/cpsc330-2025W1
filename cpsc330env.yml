@@ -15,9 +15,10 @@ dependencies:
     - jupyterlab-git
     - jupyterlab-spellchecker
     - nb_conda_kernels
-    - scikit-learn>=1.7.1    
+    - scikit-learn
     - requests
     - ipython
+    - panel 
     - graphviz
     - python-graphviz
     - jinja2
