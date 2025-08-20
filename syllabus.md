@@ -18,9 +18,9 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 | Section      | Day     | Time                | Location              |
 |--------------|---------|---------------------|-----------------------|
-| CPSC 330 101 | Tue/Thu | 3:30 - 4:50 PM      |  TBA |
-| CPSC 330 102 | Tue/Thu | 11:00 AM - 12:20 PM | DMP 310 |
-| CPSC 330 103 | Tue/Thu | 5:00 - 6:20 PM      | TBA |
+| CPSC 330 101 | Tue/Thu | 15:30 - 16:50       | DMP 310 |
+| CPSC 330 102 | Tue/Thu | 11:00 - 12:20       | DMP 310 |
+| CPSC 330 103 | Tue/Thu | 17:00 - 18:20       | DMP 310 |
 
 **Tutorials**:
 
