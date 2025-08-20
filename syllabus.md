@@ -73,7 +73,7 @@ The grading scheme for the course is as follows:
 
 | Component              | Weight | Location                                              |
 |------------------------|--------|-------------------------------------------------------|
-| Syllabus quiz          | 1%     | [PrairieLearn](https://us.prairielearn.com/pl/course_instance/163899/assessment/2451488)        |
+| Syllabus quiz          | 1%     | [PrairieLearn]()        |
 | iClicker participation | 5%     | [iClicker Cloud Section 001](); [iClicker Cloud Section 002](); [iClicker Cloud Section 003]()  |
 | Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/29785) |
 | Midterm 1              | 21%    | PrairieLearn |

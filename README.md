@@ -31,9 +31,9 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 * [Course GitHub page](https://github.com/UBC-CS/cpsc330-2025W1)
 * [Course Jupyter book](https://ubc-cs.github.io/cpsc330-2025W1)
 * [Canvas](https://canvas.ubc.ca/courses/)
-* [Piazza]()
+* [Piazza](https://piazza.com/ubc.ca/winterterm12025/cpsc330)
 * [iClicker Cloud Section 001](), [iClicker Cloud Section 002](), [iClicker Cloud Section 003]()   
-* [Gradescope](https://www.gradescope.ca/courses/18608)
+* [Gradescope](https://www.gradescope.ca/courses/29785)
 * [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
 * [Syllabus / administrative info](docs/syllabus.md)
 * [Other course documents](https://github.com/UBC-CS/cpsc330-2025W1/tree/main/docs)
@@ -50,11 +50,11 @@ Usually the homework assignments will be due on Mondays (except next week) and w
 | hw4            | Oct 06, 11:59 pm      | [GitHub repo]() | [Gradescope](https://www.gradescope.ca/courses/29785) |
 | **Midterm 1**  | Oct 15 and Oct 16     | PrairieLearn (CBTF, in person)                                                     | PrairieLearn (CBTF, in person)                        |
 | hw5            | Oct 27, 11:59 pm      | [GitHub repo]() | [Gradescope](https://www.gradescope.ca/courses/29785) |
-| hw6            | Nov 03, 11:59 pm | [GitHub repo]() | [Gradescope](https://www.gradescope.ca/courses/18608) |
+| hw6            | Nov 03, 11:59 pm | [GitHub repo]() | [Gradescope](https://www.gradescope.ca/courses/29785) |
 | **Midterm 2**  | Nov 13 and Nov 14     | PrairieLearn (CBTF, in person)                                                     | PrairieLearn (CBTF, in person)                        |
-| hw7            | November 17, 11:59 pm | [GitHub repo]() | [Gradescope](https://www.gradescope.ca/courses/18608) |
-| hw8            | November 24, 11:59 pm | [GitHub repo]()  | [Gradescope](https://www.gradescope.ca/courses/18608) |
-| hw9            | December 05, 11:59 pm | [GitHub repo]() | [Gradescope](https://www.gradescope.ca/courses/18608) |
+| hw7            | November 17, 11:59 pm | [GitHub repo]() | [Gradescope](https://www.gradescope.ca/courses/29785) |
+| hw8            | November 24, 11:59 pm | [GitHub repo]()  | [Gradescope](https://www.gradescope.ca/courses/29785) |
+| hw9            | December 05, 11:59 pm | [GitHub repo]() | [Gradescope](https://www.gradescope.ca/courses/29785) |
 | **Final exam** | TBA                   | PrairieLearn (CBTF, in person)                                                           | PrairieLearn (CBTF, in person)                              |
 
 ## Lecture schedule (tentative)
