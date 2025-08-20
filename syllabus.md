@@ -79,6 +79,7 @@ The grading scheme for the course is as follows:
 | Midterm 1              | 21%    | PrairieLearn |
 | Midterm 2              | 21%    | PrairieLearn |
 | Final                  | 30%    | PrairieLearn |
+| Tutorial participation | 2% (bonus)    | in person attendance |
 
 ### iClicker 
 

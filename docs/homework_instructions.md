@@ -5,7 +5,7 @@ Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-stud
 
 ## Accessing homework assignments
 
-Each homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2024W1?tab=readme-ov-file#deliverable-due-dates-tentative) under the "Where to find?" column under the "Deliverable due dates" section.
+Each homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2025W1?tab=readme-ov-file#deliverable-due-dates-tentative) under the "Where to find?" column under the "Deliverable due dates" section.
 You can also find the list of released (public) repositories [here](https://github.com/orgs/ubc-cpsc330/repositories).
 
 Once the repository is ready, we'll make an announcement on Piazza.
@@ -99,7 +99,7 @@ By default late submissions will not be accepted.
 The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted. 
 This is not ideal, but I believe the overall policy is best for the class as a whole.
 
-_In exceptional circumstances_ a late submission may be accepted with an academic concession - see [here](https://github.com/UBC-CS/cpsc330-2024W1/blob/main/syllabus.md#academic-concessions) for more info.
+_In exceptional circumstances_ a late submission may be accepted with an academic concession - see [here](https://github.com/UBC-CS/cpsc330-2025W1/blob/main/syllabus.md#academic-concessions) for more info.
 
 ## Updates to assignments
 
