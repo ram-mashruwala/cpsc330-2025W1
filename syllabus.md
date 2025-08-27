@@ -1,10 +1,10 @@
 # Syllabus 
 
-- [CPSC 330 101 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-101-2025w)
+- [CPSC 330 101 2025W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-101-2025w)
 
-- [CPSC 330 102 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-102-2025w)
+- [CPSC 330 102 2025W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-102-2025w)
 
-- [CPSC 330 103 2024W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-103-2025w)
+- [CPSC 330 103 2025W UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-v-330-103-2025w)
 
 
 ## Course description
@@ -54,12 +54,27 @@ For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?
 
 ### TAs
 
+- Ayanfe Adekanye
+- Gaurav Bhatt
+- Jun He Cui
+- Felix	Fu
+- Neo	Ghassemi
+- Zoe	Harris
+- Zheng He
+- Mishaal	Kazmi
+- Kanwal Mehreen
+- Himanshu Mishra
+- Rubia	Reis Guerra
+- Kimia	Rostin
+- Sohbat Sandhu
+- Joseph Soo
+- Allya	Wellyanto
 
 ## Registration
 
 **Waitlists**:
 
-The general seats available in this class usually fill up very quickly. Once the general seats are taken, the only way to register for the course is to sign up for the waiting list. For questions about the waiting list policies, see [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists). You should sign up for the waiting list even if it is long; a lot of students tend to drop courses. Signing up for the waiting list also makes it more likely that we will open up extra sessions, expand class sizes, or offer additional courses on these topics. The instructors have no control over the situation and I cannot help you bypass the waiting list.
+The general seats available in this class usually fill up very quickly. Once the general seats are taken, the only way to register for the course is to sign up for the waiting list. For questions about the waiting list policies, see [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists). You should sign up for the waiting list even if it is long; a lot of students tend to drop courses. Signing up for the waiting list also makes it more likely that we will open up extra sessions, expand class sizes, or offer additional courses on these topics. **The instructors have no control over the situation and cannot help you bypass the waiting list**.
 
 **Prerequisites**: The official prerequisites can be found [here](https://courses.students.ubc.ca/cs/courseschedule?tname=subj-course&course=330&campuscd=UBC&dept=CPSC&pname=subjarea). If you do not meet the prerequisites, see [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/prerequisites) and [here](https://www.cs.ubc.ca/students/undergrad/courses-deadlines/rules-about-cpsc-appeals-undergraduate-students). We were told that students should not visit the front desk in the CS main office about prerequisite issues, because the folks at the front desk do not have the authority to resolve prerequisite issues.
 
@@ -101,7 +116,7 @@ For the grading scheme we wish we could use [this](https://youtu.be/HdHlfiOAJyE?
 
 Assignments will be due at 11:59 PM on the due date.
 If you cannot make this due date, you may use a "late token".
-Each student will have 4 late tokens for the entire semester, we will track them on PrairieLearn.
+Each student will have 4 late tokens for the entire semester, which we will track on Canvas. No action is required on your part to use the tokes, just make sure that you have a sufficient number if you are planning on using them.
 
 For example, if assignment is due on a Monday at 11:59 pm:
 - Handing it anytime on Tuesday will cost you 1 late token (irrespective of whether it's a holiday).
@@ -136,7 +151,7 @@ When using AI tools for your assignments, be mindful of their impact on your lea
 
 Check the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html) for midterm dates.
 
-There will be two midterms in CPSC 330 and both of them will be conducted in the CBTF via self-reservation over a two-day period.
+There will be two midterms in CPSC 330 and both of them will be conducted in the CBTF via self-reservation over a three-day period.
 The CBTF (computer based testing facility) is designed to enhance the student’s writing experience by providing them with a familiar, secure testing environment with quick access to technical support, as well as support from their instructor for common access issues.
 
 #### Centre for Accessibility (CfA) Exam Accommodations
@@ -161,13 +176,13 @@ The final exam is scheduled for the exam period and is likely to be comprehensiv
 
 ## Academic concessions
 
-UBC has a [policy on academic concession](https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." To request an academic concession, please write to the course coordinator (cpsc330-admin@cs.ubc.ca), with your section instructor copied in the email. Additional documentation might be requested. We will review your situation and determine whether to approve the concession, and if approved, the appropriate steps to follow.
+UBC has a [policy on academic concession](https://students.ubc.ca/enrolment/academic-learning-resources/academic-concessions) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." To request an academic concession, please write to the course coordinator (cpsc330-admin@cs.ubc.ca), with your section instructor copied in the email. Additional documentation might be requested. We will review your situation and determine whether to approve the concession, and if approved, the appropriate steps to follow. Please note that when possible (short term occurrences) tokens should be used as the default concession mechanism for assignments.
 
 
 ## Code of conduct
 
 - If you plan to engage in non-course-related activity in lecture (Facebook, YouTube, chatting with friends, etc), please sit in the last two rows of the room to avoid distracting your classmates.
-- Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission.
+- Do not distribute any course materials (slides, homework assignments, solutions, notes, etc.) without permission. **This includes copy/pasting material into AI prompts**.
 - Do not photograph or record lectures (audio or video) without permission.
 - If you commit to working with a partner on an assignment, do your fair share of the work.
 - If you have a problem or complaint, let the instructor(s) know immediately. Maybe we can fix it!
