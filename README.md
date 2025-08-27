@@ -4,6 +4,9 @@
 
 This is the course homepage for CPSC 330: Applied Machine Learning at the University of British Columbia. You are looking at the current version (Sep-Dec 2025).
 
+## Syllabus
+The syllabus is available [here](syllabus.md). Please read it carefully to understand all rules and expectations of this course. The content of the syllabus is tested in a quiz, to be completed by Sep 19, 11:59 pm.
+
 ## The teaching team  
 ### Instructors
 
@@ -18,6 +21,22 @@ This is the course homepage for CPSC 330: Applied Machine Learning at the Univer
 - Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to the course co-ordinator for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, this will help us keep track of emails.
 
 ### TAs
+
+- Ayanfe Adekanye
+- Gaurav Bhatt
+- Jun He Cui
+- Felix	Fu
+- Neo	Ghassemi
+- Zoe	Harris
+- Zheng He
+- Mishaal	Kazmi
+- Kanwal Mehreen
+- Himanshu Mishra
+- Rubia	Reis Guerra
+- Kimia	Rostin
+- Sohbat Sandhu
+- Joseph Soo
+- Allya	Wellyanto
 
 ## License
 
