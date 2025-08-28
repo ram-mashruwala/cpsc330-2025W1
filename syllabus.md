@@ -89,7 +89,7 @@ The grading scheme for the course is as follows:
 | Component              | Weight | Location                                              |
 |------------------------|--------|-------------------------------------------------------|
 | Syllabus quiz          | 1%     | [PrairieLearn]()        |
-| iClicker participation | 5%     | [iClicker Cloud Section 001](); [iClicker Cloud Section 002](); [iClicker Cloud Section 003]()  |
+| iClicker participation | 5%     | [iClicker Cloud Section 101](https://join.iclicker.com/BKXF); [iClicker Cloud Section 102](); [iClicker Cloud Section 103](https://join.iclicker.com/BEXL)  |
 | Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/29785) |
 | Midterm 1              | 21%    | PrairieLearn |
 | Midterm 2              | 21%    | PrairieLearn |
