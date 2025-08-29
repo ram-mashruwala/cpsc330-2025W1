@@ -1,4 +1,4 @@
-# Homework info & submission guidelines
+w# Homework info & submission guidelines
 
 You will be submitting your homework assignments on Gradescope.
 Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/). 
