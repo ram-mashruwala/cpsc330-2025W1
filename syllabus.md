@@ -172,7 +172,7 @@ For more information, [please see the CBTF page](https://cbtf.ubc.ca/students/ac
 
 ### Final exam
 
-The final exam is scheduled for the exam period and is likely to be comprehensive, covering the material taught over the course of the semester.
+The final exam is scheduled for the exam period and is likely to be comprehensive, covering the material taught over the course of the semester. **A score of 40% or more in the final exam is required to pass the course.**
 
 ## Academic concessions
 
