@@ -26,10 +26,10 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 - Gaurav Bhatt
 - Jun He Cui
 - Felix	Fu
-- Neo	Ghassemi
-- Zoe	Harris
+- Neo Ghassemi
+- Zoe Harris
 - Zheng He
-- Mishaal	Kazmi
+- Mishaal Kazmi
 - Kanwal Mehreen
 - Himanshu Mishra
 - Rubia	Reis Guerra
@@ -51,7 +51,7 @@ Software licensed under [the MIT License](https://spdx.org/licenses/MIT.html), n
 * [Course Jupyter book](https://ubc-cs.github.io/cpsc330-2025W1)
 * [Canvas](https://canvas.ubc.ca/courses/170662)
 * [Piazza](https://piazza.com/ubc.ca/winterterm12025/cpsc330/home)
-* [iClicker Cloud Section 001](), [iClicker Cloud Section 002](), [iClicker Cloud Section 003]()   
+* [iClicker Cloud Section 001](), [iClicker Cloud Section 002](https://join.iclicker.com/FZMQ), [iClicker Cloud Section 003]()   
 * [Gradescope](https://www.gradescope.ca/courses/29785)
 * [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
 * [Syllabus / administrative info](syllabus.md)
