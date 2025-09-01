@@ -138,15 +138,15 @@ This is an in-person class, and we do not livestream or make recordings availabl
 
 You may use generative AI tools (e.g., ChatGPT, Claude, Gemini) in this course, but you must use them **responsibly**. Remember, you are here to learn. These tools can speed up tasks (e.g., brainstorming, debugging, clarifying concepts), but they can also short-circuit your learning if misused (e.g., copy-pasting solutions without understanding them).
 
-**Key Policies**
+**Key policies**
 
 - **Work must be your own:** All assessments must reflect your own thinking unless otherwise specified. Submitting AI-generated work without understanding it is academic dishonesty.
 - If you use GenAI on an assessment:
     - **Cite it:** Name the tool (e.g., “ChatGPT”).
     - **Annotate it:** Briefly explain how you used it (e.g., "I asked ChatGPT for a simple explanation of cross-validation. I compared its response with my notes, clarified one detail about data splitting, and wrote my own explanation.").
-	- **Over-reliance check:** If your instructor suspects overuse, you may be asked to explain your work orally. If you cannot, penalties will apply.
+	- **If your instructor suspects overuse**, you may be asked to explain your work orally. If you cannot, penalties will apply.
 	- **Do not share sensitive content:** Never paste into AI tools student information (names, IDs, personal data) or quiz questions or answers
-	- **For group work:** All team members must know about and agree to any generative AI use. The group is collectively responsible for ensuring the final work complies with this policy.
+	- **For group work**, all team members must know about and agree to any generative AI use. The group is collectively responsible for ensuring the final work complies with this policy.
       
 Failure to follow these rules will be treated as a violation of [UBC's academic integrity policy](https://academicintegrity.ubc.ca/).
 
