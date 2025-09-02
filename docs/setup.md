@@ -1,157 +1,225 @@
-# Setting up coding environment
+# Setting up your coding environment
 
-## Git 
+This guide will help you get ready to run lecture notebooks and complete homework assignments on your own computer.  
 
-If you want to clone the class GitHub repository and run lecture notebooks locally, which is highly recommended, you will need `Git` on your computer. Check out the [git setup instructions](https://github.com/UBC-CS/cpsc330-2025W1/blob/main/docs/git_installation.md). Also, most of our homework assignments will be done in JupyterLab. 
+You'll need three main tools:  
+1. **Git:** to download and update course materials from GitHub  
+2. **Python & Conda:** to run code and manage packages  
+3. **JupyterLab:** or **VS Code** as your main coding environment
 
-Once you have `Git`, go to the directory where you want to do CPSC 330 related work, and clone the course GitHub repository using the following command on your command line. 
+## Quick start (TL;DR)
 
-```
+If you already know what you're doing, here are the essential commands:
+
+```bash
+# Clone the repo
 git clone https://github.com/UBC-CS/cpsc330-2025W1.git
+cd cpsc330-2025W1
+
+# Add conda-forge channel (Miniconda only)
+conda config --add channels conda-forge
+
+# Create environment
+conda env create -f cpsc330env.yml
+
+# (Optional) Test activating/deactivating the environment
+conda activate cpsc330
+conda deactivate
+
+# Start JupyterLab from base
+jupyter lab
+
+# Or start VS Code from base
+code .
 ```
 
-When there are updates in the repository, you can update the local copy using the command below from the directory of the repository. 
+> ⚠️ Normally, you will launch JupyterLab or VS Code from `(base)` and then select the `cpsc330` environment inside those tools. Activating it in the terminal is only needed for testing or if you want to install additional packages in the environment later on.
 
+
+## Step 1: Install Git
+
+We use Git to manage and download course material from GitHub. Follow the [Git setup instructions](https://github.com/UBC-CS/cpsc330-2025W1/blob/main/docs/git_installation.md).
+
+Once installed:
+
+```bash
+git clone https://github.com/UBC-CS/cpsc330-2025W1.git
+cd cpsc330-2025W1
 ```
+
+To update later:
+```bash
 git pull
 ```
 
-Note: If you plan to take notes, try not to do it in this repository. If you do that, there are likely be merge conflicts and you won't be able to run the command above smoothly.  
+> ⚠️ Tip: Don't keep personal notes inside this repository. Otherwise, `git pull` may fail due to conflicts. Keep notes in a separate folder/repo.
 
-## Python and Conda
 
-We will be using Python for this course because it is open source and widely used in machine learning and data science. We will use Python 3 (in particular 3.12). **Python 2 is not supported in this course.**
 
-We recommend the Miniconda Python distribution because it comes bundled with a bunch of useful packages (NumPy, SciPy, scikit-learn, Jupyter notebook) pre-installed. You can [download Miniconda from their website](https://docs.conda.io/en/latest/miniconda.html) that is suitable for your operating system. For example, I downloaded [Miniconda3 MaxOSX 64-bit pkg](https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg) on my macOS.  
+## Step 2: Install Python and Conda
 
-To make sure that miniconda and Python are correctly installed, follow the instructions below based on your operating system. 
+We use Python 3.12 (Python 2 is not supported). To manage Python and packages, you'll install a Conda distribution. You have two options:
 
-### macOS
+### Option A (recommended): Miniforge
 
-After installation, go to spotlight search on your macbook and type "terminal" and go to this program. If you already have terminal open,  restart it. If the installation was successful, you will see `(base)` prepending to your prompt string. For example, here is how the terminal prompt looks like on my macbook. 
+- Lightweight installer that defaults to the conda-forge channel (up-to-date, consistent across platforms).
+- Works smoothly on Windows, Linux, and macOS (including Apple Silicon).
+
+[Download Miniforge here](https://conda-forge.org/download/). Choose the installer for your operating system.
+
+### Option B: Miniconda
+
+- The official distribution from Anaconda.
+- Defaults to the defaults channel (stable, but sometimes outdated).
+- Requires one extra step: adding the conda-forge channel.
+
+[Download Miniconda here](https://www.anaconda.com/docs/getting-started/miniconda/main). Choose the installer for your operating system.
+
+
+
+## Step 3: Verify installation
+
+After installation:
+
+- **macOS:** open Terminal (⌘ + Space → type “Terminal”).  
+- **Windows:** open **Anaconda Prompt (miniforge3 or miniconda3)** from the Start Menu.  
+- **Linux:** open your system's terminal (Ctrl+Alt+T).  
+
+You should see `(base)` at the start of your command line prompt: 
 
 ```
-(base) kvarada@CPSC-W-KVARADA01:~$
+(base) yourusername@computer:~$
 ```
 
-To confirm that conda is working, you can ask it which version was installed:
+Check installation:
 
-```
+```bash
 conda --version
-```
-
-which should return something like: 
-
-```
-conda 24.7.1
-```
-
-Now, type 
-
-```
-python --version
-``` 
-
-which should return Python 3.11 or greater. 
-
-
-### Windows
-
-After installation, open the Start Menu and search for the program called “Anaconda Prompt (miniconda3)”. When this opens you will see a prompt similar to 
-
-```
-(base) C:\Users\your_name
-```
-
-Type the following to check that your Python installation is working:
-
-```
 python --version
 ```
 
-which should return Python 3.10 or greater. 
+Expected:
 
-_Note: If instead you see Python 2.7.X you installed the wrong version. Uninstall the Miniconda you just installed (which usually lives in the /opt directory), and try the installation again, selecting Python 3.12._
+> conda: recent version (e.g., 24.x.x)  
+> python: 3.12 or greater  
+
+If you see Python 2.7, reinstall with Python 3.12.
 
 
-## Installing Python packages
+## Step 4: Configure conda-forge (Miniconda only)
 
-`conda` installs Python packages from different online repositories which are called "channels". A package needs to go through thorough testing before it is included in the default channel, which is good for stability, but also means that new versions will be delayed and fewer packages are available overall. There is a community-driven effort called the [conda-forge](https://conda-forge.org/), which provides more up to date packages. To enable us to access the most up to date version of the Python packages we are going to use, we will add the more up to date channel. To add the conda-forge channel by typing the following in the terminal:
+If you installed Miniconda, add the conda-forge channel:
 
-```
+```bash
 conda config --add channels conda-forge
 ```
 
-We will be using [JupyterLab](https://jupyter.org/) as our main coding environment and several python packages. To install these packages, we will be creating a `conda` virtual environment. (See the instructions in the next section.)
-
-## Virtual environment
-
-### What and Why
-[A virtual environment](https://docs.python.org/3/library/venv.html) is a Python environment such that the Python interpreter, libraries and scripts installed into it are isolated from those installed in other virtual environments, and (by default) any libraries installed in a “system” Python, i.e., one which is installed as part of your operating system.  For example, you may want a certain version of tensorflow for one project but another version for a different project. Virtual environments helps us to build environment isolation between different projects and make sure any change to dependencies affects only the projects that need it.
-
-### Setting up a virtual environment: Conda environments
-
-1. Make sure that `conda` is installed by running
-    ```
-    conda env list
-    ```
-    You should see a list of environments as the output. If Miniconda is not installed, you can download Miniconda (a small, bootstrap version of Anaconda) from [here](https://docs.conda.io/en/latest/miniconda.html).  
-2. If you have cloned the repository, navigate to it in the terminal and view the contents of the repository using the command below. You will see `cpsc330env.yml` at the root of the repository.
-
-    ```
-    ls 
-    ```
-3. Create an environment by running the command below in 
-    ```
-    conda env create -f cpsc330env.yml
-    ```
-    which allows `conda` to download the dependencies needed for this course and put them in a virtual environment named `cpsc330`.
-    You can check that the environemnt is installed successfully by running `conda env list` again. `cpsc330` should show up in the output.
-4. Activate the environment with
-    ```
-    conda activate cpsc330
-    ```
-    After a successful activation, something like `(cpsc330)` should show up in the terminal.
-
-5. We are all set! When you want to run the lecture materials or work on your homework, start Jupyter Lab from your cpsc330 environment, as shown below.
-
-    ```(cpsc330) CPSC-M-KVARADA01:cpsc330-2025W1 kvarada$ jupyter lab```
-
-    Jupyter Lab will be opened in your default browser. Navigate to the appropriate notebook in Jupyter Lab. 
+If you installed Miniforge, you can skip this step (it’s already the default).
 
 
-6. To deactivate the environment, you can run
-    ```
-    conda deactivate
-    ```    
+## Step 5: Create the course environment
 
-For more information on conda environments, see [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
+A virtual environment keeps course packages isolated from other projects.
 
-Now you should be able to run the lecture notebooks on your computer! Please note that the environment file above is good to get started, but it does not contain all the packages we will be using in the course. We might need to install some packages manually later on, and we’ll provide you with instructions when the time comes.
+1. Navigate to the course repo if you are not already there. Make sure `cpsc330env.yml` exists in the repo you cloned:
+```bash
+cd cpsc330-2025W1
+ls 
+```
+
+2. Create the environment.
+```bash
+conda env create -f cpsc330env.yml
+```
+
+3. (Optional) Test activating and deactivating the environment.
+```bash
+conda activate cpsc330
+conda deactivate
+```
+
+Your prompt should return to `(base)` when deactivated.
+
+> ✅ You only need to create the environment once. Normally, you will stay in `(base)` and select the `cpsc330` kernel in JupyterLab or VS Code.
+
+4. Launch JupyterLab (from base environment):
+```bash
+jupyter lab
+```
+
+JupyterLab will open in your browser. At the top-right corner of your notebook, click on the kernel dropdown. Select the kernel named `Python [conda env:cpsc330]`. Now you're running the notebook inside the course environment.
+
+---
+
+## Step 6: Using VS Code (alternative to JupyterLab)
+
+Some of you may prefer using [VS Code](https://code.visualstudio.com/) instead of JupyterLab. Both work fine. It's your choice.
+
+### Install VS Code
+
+- [Download from Visual Studio Code](https://code.visualstudio.com/).  
+- Install the **Python** extension and the **Jupyter** extension (search in the Extensions Marketplace inside VS Code).  
+
+### Open the repo in VS Code
+
+- Open VS Code → File → Open Folder → select the cloned `cpsc330-2025W1` folder.  
+- Or in the terminal navigate to `cpsc330-2025W1` and open VS Code:  
+```bash
+code . 
+```
+
+### Select the correct environment
+
+1. Open the Command Palette (⇧⌘P on macOS, Ctrl+Shift+P on Windows/Linux).  
+2. Type **Python: Select Interpreter**.  
+3. Choose the interpreter starting with `conda env:cpsc330`.  
+
+⚠️ If you don't see the interpreter, restart VS Code after creating the environment.
+
+### Running notebooks
+
+- Open any `.ipynb` file from the repo.  
+- At the top right, select the `cpsc330` kernel if it isn’t already selected.  
+- Run cells with **Shift+Enter**.  
 
 
-### Debugging
+## Step 7: Troubleshooting
 
-If the `conda env create -f cpsc330env.yml` command above results in an error on your computer: 
+### Errors when creating course environment 
+If `conda env create -f cpsc330env.yml` fails:
 
-- Figure out what package it's failing on from the error message.
-- Get rid of the line with that package from your local copy of `cpsc330env.yml`. 
-- Try creating the environment again with the modified `cpsc330env.yml`. 
-- Once the environment is created, activate the environment and install the missing packages manually in the environment. You may have to install these packages using `pip install` in some cases, as the most recent version of the package might not available via `conda` for your operating system yet. 
-- If you still have trouble with the environment and running lecture notebooks on your machine, make use of office hours and tutorials.
+- Check the error message and identify the problematic package.  
+- Remove that package line from `cpsc330env.yml`.  
+- Re-run the command.  
+- If needed, install missing packages manually:  
 
-## [Optional] Jupyterlab and Python
+```bash
+conda install packagename
+# or
+pip install packagename
+```
 
-Here is a short video of an introduction to JupyterLab and Python - I created the video for another course that uses similar tooling.
+### Apple Silicon Macs
 
-If you're new to Jupyterlab and/or Python, I encourage you to watch this to get familiar with the tools:
+On Apple Silicon (M1/M2/M3) Macs, some packages may fail to install. Try rerunning with:
+
+```bash
+CONDA_SUBDIR=osx-64 conda env create -f cpsc330env.yml
+```
+
+This forces installation from Intel builds, which are often more stable.
+
+Still stuck? Bring your laptop to office hours or tutorials and get help.
+
+
+## [Optional] Learn JupyterLab and Python
+
+If you're new to JupyterLab and/or Python, here is a short video of an introduction to JupyterLab and Python created by one of the instructors of the course for another course that uses similar tooling.
 
 <div class="container youtube">
-<iframe src="https://player.vimeo.com/video/1006820659?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to Jupyterlab and Python"></iframe>
+<iframe src="https://player.vimeo.com/video/1006820659?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to JupyterLab and Python"></iframe>
 <script src="https://player.vimeo.com/api/player.js"></script>
 </div>
-
-
 
 ## Credit
 
