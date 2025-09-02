@@ -46,7 +46,7 @@ For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?
 
 **Instructors**: 
 
-- [Giulia Toti](https://www.gtoti.com/), OH: TBA
+- [Giulia Toti](https://www.gtoti.com/), OH: Wednesdays, 3:30 - 5:00 pm @ ICCS 231
 - [Varada Kolhatkar](https://kvarada.github.io/), OH: Tuesdays, 12:30 pm @ ICCS 237
 
 ### Course co-ordinator
