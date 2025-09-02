@@ -199,20 +199,10 @@ conda install packagename
 pip install packagename
 ```
 
-### Apple Silicon Macs
-
-On Apple Silicon (M1/M2/M3) Macs, some packages may fail to install. Try rerunning with:
-
-```bash
-CONDA_SUBDIR=osx-64 conda env create -f cpsc330env.yml
-```
-
-This forces installation from Intel builds, which are often more stable.
-
 Still stuck? Bring your laptop to office hours or tutorials and get help.
 
 
-## [Optional] Learn JupyterLab and Python
+## (Optional) Learn JupyterLab and Python
 
 If you're new to JupyterLab and/or Python, here is a short video of an introduction to JupyterLab and Python created by one of the instructors of the course for another course that uses similar tooling.
 
