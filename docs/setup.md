@@ -38,7 +38,7 @@ code .
 
 ## Step 1: Install Git
 
-We use Git to manage and download course material from GitHub. Follow the [Git setup instructions](https://github.com/UBC-CS/cpsc330-2025W1/blob/main/docs/git_installation.md).
+We use Git to manage and download course material from GitHub. Follow the [Git setup instructions](https://ubc-cs.github.io/cpsc330-2025W1/docs/git_installation.html).
 
 Once installed:
 

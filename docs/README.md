@@ -5,7 +5,7 @@
 * [Homework submission instructions](homework_instructions.md)
 * [Grading policies](grades.md)
 * [Environment setup instructions](setup.md)
-* [Git info](git_installation.md)
+* [Git installation](git_installation.md)
 * [How to ask for help](asking_for_help.md)
 * [Python notes](python_notes.ipynb)
 * [Textbooks and online resources](resources.md)

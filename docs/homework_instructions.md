@@ -1,4 +1,4 @@
-w# Homework info & submission guidelines
+# Homework info & submission guidelines
 
 You will be submitting your homework assignments on Gradescope.
 Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/). 
@@ -39,11 +39,11 @@ When you're ready to submit your assignment, make sure all your work in the Jupy
 
 1. Run all cells in your notebook to make sure there are no errors by running all cells: `Kernel -> Restart Kernel and Clear All Outputs` and then `Run -> Run All Cells`.
 
-1. Notebooks with cell execution numbers out of order or not starting from “1” will have marks deducted. Notebooks without the output displayed may not be graded at all (because we need to see the output in order to grade your work).
+1. Notebooks with cell execution numbers out of order or not starting from "1" will have marks deducted. Notebooks without the output displayed may not be graded at all (because we need to see the output in order to grade your work).
 
 ### Submitting on Gradescope
 
-1. Upload the assignment using Gradescope’s drag and drop tool. Make sure to access Gradescope via Canvas. Check out this [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/) if you need help with your Gradescope submission.
+1. Upload the assignment using Gradescope's drag and drop tool. Make sure to access Gradescope via Canvas. Check out this [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/) if you need help with your Gradescope submission.
 
 1. Make sure that the plots and output are rendered properly in your submitted files.
 
@@ -97,15 +97,16 @@ In most assignments, you will be asked to produce plots/figures. When including 
 
 By default late submissions will not be accepted.
 The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted. 
-This is not ideal, but I believe the overall policy is best for the class as a whole.
+This is not ideal, but we believe the overall policy is best for the class as a whole.
 
 _In exceptional circumstances_ a late submission may be accepted with an academic concession - see [here](https://github.com/UBC-CS/cpsc330-2025W1/blob/main/syllabus.md#academic-concessions) for more info.
 
 ## Updates to assignments
 
-If there are errors or other changes that need to be made to an assignment, I will announce them in a pinned Piazza post.
+If there are errors or other changes that need to be made to an assignment, we will announce them in a pinned Piazza post.
 
 ## Citing sources
 
-If you use information from students outside your group or from online sources _including code snippets from Stack Overflow_ or lecture notes, cite this at the start of each question. **You will receive a mark of 0 for the assignment (and possibly other consequences) if you are found copying from other sources without citation**.
+If you use information from students outside your group or from online sources _including code snippets from Stack Overflow_ or lecture notes, cite this at the start of each question. Please carefully read this policy on [use of Generative AI in the course](https://ubc-cs.github.io/cpsc330-2025W1/syllabus.html#use-of-generative-ai-in-the-course). 
 
+**You will receive a mark of 0 for the assignment (and possibly other consequences) if you are found copying from other sources without citation and/or annotation**.
