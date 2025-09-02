@@ -47,7 +47,7 @@ For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?
 **Instructors**: 
 
 - [Giulia Toti](https://www.gtoti.com/), OH: TBA
-- [Varada Kolhatkar](https://kvarada.github.io/), OH: TBA
+- [Varada Kolhatkar](https://kvarada.github.io/), OH: Tuesdays, 12:30 pm @ ICCS 237
 
 ### Course co-ordinator
 - Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. 
@@ -145,7 +145,7 @@ You may use generative AI tools (e.g., ChatGPT, Claude, Gemini) in this course, 
     - **Cite it:** Name the tool (e.g., “ChatGPT”).
     - **Annotate it:** Briefly explain how you used it (e.g., "I asked ChatGPT for a simple explanation of cross-validation. I compared its response with my notes, clarified one detail about data splitting, and wrote my own explanation.").
 	- **If your instructor suspects overuse**, you may be asked to explain your work orally. If you cannot, penalties will apply.
-	- **Do not share sensitive content:** Never paste into AI tools student information (names, IDs, personal data) or quiz questions or answers
+	- **Do not share sensitive content:** Never paste into AI tools student information (names, IDs, personal data). In addition, do not paste course assessments (assignments, iClicker questions, exam questions) directly to generative AI tools for completion. These materials are copyrighted, and feeding them into such tools may result in redistributing them in ways we don't intend.
 	- **For group work**, all team members must know about and agree to any generative AI use. The group is collectively responsible for ensuring the final work complies with this policy.
       
 Failure to follow these rules will be treated as a violation of [UBC's academic integrity policy](https://academicintegrity.ubc.ca/).
