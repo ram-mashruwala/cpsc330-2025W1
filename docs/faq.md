@@ -6,6 +6,20 @@ The course has minimal prerequisites. If you are comfortable with Python program
 ## Can I audit the class?  
 If the course is full, we do not allow official auditors. You're welcome to sit in informally, but please reach out to the instructor first. Also, please avoid taking a seat if the classroom is crowded. We want to prioritize enrolled students.  
 
+## Can I attend lectures from a different section?  
+You are expected to attend your assigned section. If you have a one-time conflict, you may attend another section, but note that you will not receive participation points for that session.  
+
+## Can I use generative AI in this course?
+Please read our full [Generative AI usage policy](https://ubc-cs.github.io/cpsc330-2025W1/syllabus.html#use-of-generative-ai-in-the-course).
+
+**TL;DR: use AI to support, not substitute, your work.** If you use a tool:
+- **Cite it** (tool name/version).
+- **Annotate your use** (what you asked it to do and how you incorporated/edited the output).
+- **Be able to explain and reproduce** your work without the tool.
+- **Do not share sensitive content** (e.g., assessments, private data).
+- **Follow group-work rules** and be extra careful when collaborating.
+- **You are responsible** for any errors ("hallucinations") the tool produces.
+
 ## How do I submit homework assignments?  
 All assignments are submitted on Gradescope. Detailed instructions are provided on the [course website](https://ubc-cs.github.io/cpsc330-2025W1/docs/homework_instructions.html). Make sure to follow them carefully.  
 
@@ -43,3 +57,4 @@ We use **Python** with **scikit-learn** and other common ML libraries. Assignmen
 - **Midterm 1:** Conceptual. Multiple choice, multi-select, and reasoning questions.  
 - **Midterm 2:** Includes some coding.  
 - **Final exam:** A mix of question types covering the full course.
+
