@@ -28,7 +28,8 @@ We don't control the waitlist, but here are some things to keep in mind:
 - There is currently space in Section 103.  
 - [UBC CPSC waitlist policy](https://www.cs.ubc.ca/students/undergrad/courses/waitlists) applies.  
 - In past years, seats often open up in the first couple of weeks as students adjust their schedules.  
-- If you don't get in this term, the course runs every semester, so you'll have another chance.  
+- If you don't get in this term, the course runs every semester, so you'll have another chance.
+- This is a rich and fast paced course and participation is expected from week 1. This applies also to students on the waitlist who are waiting to get into the course.
 
 ## Who takes this course?  
 The audience is diverse: Data Science Minor students, BCS students, Computer Science undergraduate students, and graduate students from different departments who want to apply machine learning in their research. You'll likely learn not only from your instructors and TAs but also from your peers.  
