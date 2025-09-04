@@ -1,6 +1,7 @@
 # CPSC 330 Documents
 
 * [Syllabus](../syllabus.md)
+* [Frequently Asked Questions](faq.md)
 * [CPSC 330 vs. CPSC 340](330_vs_340.md)
 * [Homework submission instructions](homework_instructions.md)
 * [Grading policies](grades.md)
