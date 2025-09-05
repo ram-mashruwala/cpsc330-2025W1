@@ -40,15 +40,14 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 **Office Hours**
 
+Tutorials for this course will be conducted by TAs and follow an office hours format. Attendance at tutorials is optional. However, participating will allow you to engage in more personalized discussions with TAs, providing you with valuable one-on-one time and an opportunity to deepen your understanding of machine learning concepts. 
+
+For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). 
+
 | TA              | Day      | Time             | Location               |
 |-----------------|----------|------------------|------------------------|
 | Allya Wellyanto | Monday   | 2-3 PDT          | Zoom (See Piazza)      |
 | Joseph Soo      | Monday   | 3-4 PDT          | Zoom (See Piazza)      | 
-
-
-Tutorials for this course will be conducted by TAs and follow an office hours format. Attendance at tutorials is optional. However, participating will allow you to engage in more personalized discussions with TAs, providing you with valuable one-on-one time and an opportunity to deepen your understanding of machine learning concepts. 
-
-For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). 
 
 ## Teaching Team
 
