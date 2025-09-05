@@ -35,7 +35,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 - Rubia	Reis Guerra
 - Kimia	Rostin
 - Sohbat Sandhu
-- Joseph Soo
+- Joseph Soo - Office Hours Monday, 3-4 PDT 
 - Allya	Wellyanto
 
 ## License
