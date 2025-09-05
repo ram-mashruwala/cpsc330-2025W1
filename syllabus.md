@@ -44,10 +44,10 @@ Tutorials for this course will be conducted by TAs and follow an office hours fo
 
 For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). 
 
-| TA              | Day      | Time             | Location               |
-|-----------------|----------|------------------|------------------------|
-| Allya Wellyanto | Monday   | 2-3 PDT          | Zoom (See Piazza)      |
-| Joseph Soo      | Monday   | 3-4 PDT          | Zoom (See Piazza)      | 
+| TA             | Day      | Time             | Location               |
+|----------------|----------|------------------|------------------------|
+| Allya Wellyanto| Monday   | 2-3 PDT          |       |
+| Joseph Soo     | Monday   | 3-4 PDT          | https://ubc.zoom.us/j/67357893390?pwd=qf1nwMVNnxhSVE6s4TZJeOmh8L48BU.1| 
 
 ## Teaching Team
 
