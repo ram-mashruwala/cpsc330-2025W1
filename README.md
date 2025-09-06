@@ -36,7 +36,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 - Kimia	Rostin
 - Sohbat Sandhu
 - Joseph Soo - Office Hours Monday, 15:00-16:00 virtual https://ubc.zoom.us/j/67357893390?pwd=qf1nwMVNnxhSVE6s4TZJeOmh8L48BU.1
-- Allya	Wellyanto - Office Hours Monday, 14:00-15:00 PDT virtual https://ubc.zoom.us/j/66419319451?pwd=88PknFhwGSxmWG6FlWxSukREbnQygU.1
+- Allya	Wellyanto - Office Hours Monday, 14:00-15:00 virtual https://ubc.zoom.us/j/66419319451?pwd=88PknFhwGSxmWG6FlWxSukREbnQygU.1
 
 ## License
 
