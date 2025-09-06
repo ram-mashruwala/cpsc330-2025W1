@@ -36,7 +36,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 - Kimia	Rostin
 - Sohbat Sandhu
 - Joseph Soo - Office Hours Monday, 3-4 PDT (See Piazza for details)
-- Allya	Wellyanto - Office Hours Monday, 2-3 PDT (See Piazza for details)
+- Allya	Wellyanto - Office Hours Monday, 2-3 PDT (https://ubc.zoom.us/j/66419319451?pwd=88PknFhwGSxmWG6FlWxSukREbnQygU.1)
 
 ## License
 
