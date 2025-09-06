@@ -46,7 +46,7 @@ For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?
 
 | TA             | Day      | Time             | Location               |
 |----------------|----------|------------------|------------------------|
-| Allya Wellyanto| Monday   | 14:00-15:00      |                        |
+| Allya Wellyanto| Monday   | 14:00-15:00      | https://ubc.zoom.us/j/66419319451?pwd=88PknFhwGSxmWG6FlWxSukREbnQygU.1|
 | Joseph Soo     | Monday   | 15:00-16:00      | https://ubc.zoom.us/j/67357893390?pwd=qf1nwMVNnxhSVE6s4TZJeOmh8L48BU.1| 
 
 ## Teaching Team
