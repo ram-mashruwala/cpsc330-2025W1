@@ -54,7 +54,7 @@ For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?
 **Instructors**: 
 
 - [Giulia Toti](https://www.gtoti.com/), OH: Wednesdays, 4:00 - 5:00 pm @ ICCS 231
-- [Varada Kolhatkar](https://kvarada.github.io/), OH: Tuesdays, 12:30 pm @ ICCS 237
+- [Varada Kolhatkar](https://kvarada.github.io/), OH: Wednesdays, 11:30 am @ ICCS 237
 
 ### Course co-ordinator
 - Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. 
