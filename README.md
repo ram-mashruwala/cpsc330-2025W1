@@ -98,7 +98,7 @@ We'll be developing lecture notes directly in this repository. So if you check t
 | Oct 02 | Hyperparameter optimization, overfitting the validation set | 📹 Pre-watch: [8.1](https://youtu.be/lMWdHZSZMk8), [8.2](https://youtu.be/Z9a9XZ0vQv0) |   different|
 | Oct 07 | Evaluation metrics for classification  | 📹  Reference: [9.2](https://youtu.be/ZCuCErW5lI8), [9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw) | more depth |
 | Oct 09 | Regression metrics |  📹 Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ) |   more depth on metrics less depth on regression|
-| Oct 15-16 | _Midterm 1 - no class_ | | |
+| Oct 14-15 | _Midterm 1 - no class_ | | |
 | Oct 16 | Ensembles |  📹 Pre-watch: [11.1](https://youtu.be/8litm1H7DLo), [11.2](https://youtu.be/EkFkY9QB2Hw) | similar |
 | Oct 21 | Feature importances, model interpretation | 📹 Pre-watch: [12.1](https://youtu.be/xfICsGL7DXE),[12.2](https://youtu.be/tiSN18OmZOo)| feature importances is new, feature engineering is new |
 | Oct 23 |   Feature engineering and feature selection | None | less depth |
