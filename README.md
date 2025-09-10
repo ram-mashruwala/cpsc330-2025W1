@@ -63,7 +63,7 @@ Usually the homework assignments will be due on Mondays (except next week) and w
 | Assessment     | Due date              | Where to find?                                                                     | Where to submit?                                      |
 |----------------|-----------------------|------------------------------------------------------------------------------------|-------------------------------------------------------|
 | hw1            | Sept 09, 11:59 pm     | [GitHub repo](https://github.com/new?template_name=hw1&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785) |
-| hw2            | Sept 15, 11:59 pm     | [GitHub repo](https://github.com/new?template_name=hw2&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785) |
+| hw2            | Sept 16, 11:59 pm     | [GitHub repo](https://github.com/new?template_name=hw2&template_owner=ubc-cpsc330) | [Gradescope](https://www.gradescope.ca/courses/29785) |
 | Syllabus quiz  | Sept 19, 11:59 pm     | PrairieLearn (access through [Canvas tab](https://canvas.ubc.ca/courses/170662)) | (access through [Canvas tab](https://canvas.ubc.ca/courses/170662))  |
 | hw3            | Sept 29, 11:59 pm      | GitHub repo | [Gradescope](https://www.gradescope.ca/courses/29785) |
 | hw4            | Oct 06, 11:59 pm      | GitHub repo | [Gradescope](https://www.gradescope.ca/courses/29785) |
