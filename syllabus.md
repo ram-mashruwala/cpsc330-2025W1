@@ -95,17 +95,17 @@ The grading scheme for the course is as follows:
 
 | Component              | Weight | Location                                              |
 |------------------------|--------|-------------------------------------------------------|
-| Syllabus quiz          | 1%     | [PrairieLearn]()        |
-| iClicker participation | 5%     | [iClicker Cloud Section 101](); [iClicker Cloud Section 102](); [iClicker Cloud Section 103]()  |
+| Syllabus quiz          | 1%     | PrairieLearn (through Canvas)        |
+| iClicker participation | 5%     | iClicker Cloud (through Canvas) |
 | Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/29785) |
-| Midterm 1              | 21%    | PrairieLearn |
-| Midterm 2              | 21%    | PrairieLearn |
-| Final                  | 30%    | PrairieLearn |
-| Tutorial participation | 2% (bonus)    | in person attendance |
+| Midterm 1              | 21%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
+| Midterm 2              | 21%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
+| Final                  | 30%    | [CBTF](https://cbtf.ubc.ca/), on PrairieLearn |
+| Tutorial participation | up to 2% bonus    | in person attendance to 10 tutorials |
 
 ### iClicker 
 
-The iClicker participation grade will mainly consider your engagement rather than the accuracy of your responses. Nevertheless, these questions are intended to facilitate your learning, so please make an earnest effort when providing your answers. 
+The iClicker participation grade will mainly consider your engagement rather than the accuracy of your responses. Nevertheless, these questions are intended to facilitate your learning, so please make an earnest effort when providing your answers. Participation in 80% of the classes is enough to receive the full participation grade - this gives you some wiggle room if you happen to miss a class or two.
 
 ### Assignments
 
