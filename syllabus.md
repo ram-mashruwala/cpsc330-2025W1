@@ -141,7 +141,7 @@ We will post solutions 48-hours after the due date.
 
 This is an in-person class, and we do not livestream or make recordings available by default. If you miss a class, you can catch up by reviewing the lecture notes and talking to your peers. Section 102 lectures (11 am to 12:20 am) are being recorded, but the recordings are not shared widely. Typically, the backs of students sitting in the first three to four rows may appear in the recording. If you prefer not to be recorded, please avoid sitting in those rows. When lecture recordings are available, access will be granted only to students who were absent for approved reasons (e.g., illness, jury duty). 
 
-**Process to request access:** If you miss a class for a legitimate reason, please contact our course coordinator at cpsc330-admin@cs.ubc.ca and provide the appropriate documentation (e.g., a doctor's note if you are sick). Your request will be reviewed, and if approved, you will be given access to the lecture recording. Please note that this process may take some time.
+**Process to request access:** If you miss a class for a legitimate reason, please contact our course coordinator at cpsc330-admin@cs.ubc.ca and provide appropriate documentation (e.g., a doctor's note if you are seriously ill). Your request will be reviewed, and approval may take time. Please remember that relying on recordings is not an effective way to stay on top of the course material. Regular attendance is essential for success.
 
 ### Use of Generative AI in the course
 
