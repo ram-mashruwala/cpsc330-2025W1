@@ -24,9 +24,9 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 
 - Ayanfe Adekanye
 - Gaurav Bhatt
-- Jun He Cui
+- Jun He Cui - OH Thursdays, 16:00-17:00 in ICCS X153
 - Felix	Fu
-- Neo Ghassemi
+- Neo Ghassemi - OH Wednesdays, 13:00-14:00 in ICCS X141
 - Zoe Harris
 - Zheng He
 - Mishaal Kazmi
