@@ -42,8 +42,9 @@ def custom_plot_tree(tree_model, feature_names=None, class_names=None, **kwargs)
               **kwargs)
     
     # Customize the appearance of the text elements for each node
+   # Customize the appearance of the text elements for each node
     for text in plt.gca().texts:
-        new_text = re.sub('samples = \d+\n', '', text.get_text()) # Hide samples
+        new_text = re.sub('samples = .*\n', '', text.get_text()) # Hide samples
         text.set_text(new_text) 
     
     plt.show()
