@@ -25,7 +25,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 - Ayanfe Adekanye
 - Gaurav Bhatt
 - Jun He Cui - OH Thursdays, 16:00-17:00 in ICCS X153
-- Felix	Fu
+- Felix	Fu - OH Thursdays, 14:00-15:00 in ICCS X150 table 1
 - Neo Ghassemi - OH Wednesdays, 13:00-14:00 in ICCS X141
 - Zoe Harris
 - Zheng He
@@ -35,6 +35,7 @@ The syllabus is available [here](syllabus.md). Please read it carefully to under
 - Rubia	Reis Guerra
 - Kimia	Rostin
 - Sohbat Sandhu
+- Mir Rayat Imtiaz - OH Thursday, 14:00-15:00 in ICCS X153 
 - Joseph Soo - Office Hours Monday, 16:00-17:00 virtual https://ubc.zoom.us/j/67357893390?pwd=qf1nwMVNnxhSVE6s4TZJeOmh8L48BU.1
 - Allya	Wellyanto - Office Hours Monday, 14:00-15:00 virtual https://ubc.zoom.us/j/66419319451?pwd=88PknFhwGSxmWG6FlWxSukREbnQygU.1
 
