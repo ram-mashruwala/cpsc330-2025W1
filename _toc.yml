@@ -46,7 +46,7 @@ parts:
   # - file: lectures/notes/final-exam-review-guiding-question.ipynb  
   # - file: lectures/notes/appendixA_feature-engineering-text-data.ipynb
   # - file: lectures/notes/appendixB_multiclass-strategies.ipynb  
-  - caption: Section slides
+- caption: Section slides
   chapters:
   - file: lectures/101&103-Giulia-lectures/README
     sections:
