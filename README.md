@@ -95,7 +95,7 @@ We'll be developing lecture notes directly in this repository. So if you check t
 | Sep 18 | Preprocessing, `sklearn` pipelines | 📹  Pre-watch: [5.1](https://youtu.be/xx9HlmzORRk), [5.2](https://youtu.be/G2IXbVzKlt8), [5.3](https://youtu.be/nWTce7WJSd4), [5.4](https://youtu.be/2mJ9rAhMMl0)  |  more depth|
 | Sep 23 | More preprocessing, `sklearn` `ColumnTransformer`, text features | 📹  Pre-watch: [6.1](https://youtu.be/to2mukSyvLk), [6.2](https://youtu.be/hteVvLwrWZ4) | more depth |
 | Sep 25 | Linear models | 📹  Pre-watch: [7.1](https://youtu.be/HXd1U2q4VFA), [7.2](https://youtu.be/56L5z_t22qE), [7.3](https://youtu.be/_OAK5KiGLg0) | less depth |
-| Oct 01 | _National Day for Truth and Reconciliation - no class_ |
+| Sep 30 | _National Day for Truth and Reconciliation - no class_ |
 | Oct 02 | Hyperparameter optimization, overfitting the validation set | 📹 Pre-watch: [8.1](https://youtu.be/lMWdHZSZMk8), [8.2](https://youtu.be/Z9a9XZ0vQv0) |   different|
 | Oct 07 | Evaluation metrics for classification  | 📹  Reference: [9.2](https://youtu.be/ZCuCErW5lI8), [9.3](https://youtu.be/XkCTUuoH23c),[9.4](https://youtu.be/jHaKRCFb6Qw) | more depth |
 | Oct 09 | Regression metrics |  📹 Pre-watch: [10.1](https://youtu.be/lgGTKLwNgkQ) |   more depth on metrics less depth on regression|
