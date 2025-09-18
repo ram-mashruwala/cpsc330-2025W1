@@ -24,6 +24,7 @@ parts:
   - file: lectures/notes/02_terminology-decision-trees.ipynb
   - file: lectures/notes/03_ml-fundamentals.ipynb    
   - file: lectures/notes/04_kNNs-SVM-RBF.ipynb   
+  - file: lectures/notes/05_preprocessing-pipelines.ipynb
 - caption: Section slides
   chapters:
   - file: lectures/101&103-Giulia-lectures/README
